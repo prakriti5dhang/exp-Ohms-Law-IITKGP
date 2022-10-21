@@ -13,7 +13,7 @@
 9. Therefore from the graph we see that the resistance do adhere to Ohm’s law. Thus resistance is said to be an Ohmic device.
 
 <div align="center">
-<img src="experiment/images/ohmslw_pr.png" width="10%">
+<img src="images/ohmslw_pr.png" width="10%">
 <p>Figure:1</p>
 </div>
 
@@ -27,7 +27,7 @@
 7. Repeat step 2 to 6 for another set of resistance value.
 
 <div align="center">
-<img src="experiment/images/ohmssrs_pr.png" width="10%">
+<img src="images/ohmssrs_pr.png" width="10%">
 <p>Figure: 2</p>
 </div>
 
@@ -41,7 +41,7 @@
 - Repeat step 2 to 6 for another set of resistance value.
 
 <div align="center">
-<img src="experiment/images/ohmsprl_pr.png" width="10%">
+<img src="images/ohmsprl_pr.png" width="10%">
 <p>Figure: 3</p>
 </div>
 
@@ -58,6 +58,6 @@
 - Therefore from the graph we see that the diode does not adhere to Ohms law.Thus diode is said to be non-Ohmic device.
 
 <div align="center">
-<img src="experiment/images/ohmsnhm_pr.png" width="10%">
+<img src="images/ohmsnhm_pr.png" width="10%">
 <p>Figure: 4</p>
 </div>

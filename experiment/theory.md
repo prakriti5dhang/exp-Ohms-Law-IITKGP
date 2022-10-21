@@ -71,7 +71,7 @@ $$R_{eq}=R_1+R_2$$
 
 The total current of the circuit,
 
-$$I_T=\frac{V_S}{R_{eq}$$
+$$I_T=\frac{V_S}{R_{eq}}$$
 
 Voltage across each resistance are,
 
@@ -137,7 +137,7 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
 
 
 <div align="center">
-<img src="images/ohmt5.png" width="10%">
+<img src="images/ohmtnhm.png" width="10%">
 <p>Figure 5: Non Ohmic Device  </p>
 </div>
 
