@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If doubling the voltage across a resistor doubles the current through the resistor then",
+      "answers": {
+        "a": "the resistor value decreased",
+        "b": "the resistor value did not change",
+        "c": "the resistor value increased",
+        "d": "it is impossible to determine the change in the resistor"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d": "You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the voltage across a fixed value of resistance is increased five times, what does the current do?",
+      "answers": {
+        "a": "Not enough information",
+        "b": "It decreases by a factor of five",
+        "c": "It stays the same",
+        "d": "It increases by a factor of five"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the power in the given circuit? <br/><p style=\"text-align:center\"><img src=\"images/ohmq3.png\"></p>",
+      "answers": {
+        "a": "3.6 W",
+        "b": "245 W",
+        "c": "175 W",
+        "d": "35 W"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Shunt resistance is labeled with the following rating: 150 A , 50 mV. What is the resistance of this shunt, in ohms? <br/><p style=\"text-align:center\"><img src=\"images/ohmq2.png\"></p> <br>Shunt resistors are often used as current-measuring devices, in that they are designed to drop very precise amounts of voltage as large electric currents pass through them. By measuring the amount of voltage dropped by a shunt resistor, you will be able to determine the amount of current going through it:",
+      "answers": {
+        "a": "333.3 uOhm",
+        "b": "33.33 mOhm",
+        "c": "3.333 Ohm",
+        "d": "3.333 mOhm"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d": "You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

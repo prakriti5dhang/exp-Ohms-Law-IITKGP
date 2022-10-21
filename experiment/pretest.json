@@ -1,0 +1,57 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "What is the value of this resistor, in ohms <br/><p style=\"text-align:center\"><img src=\"images/ohmq1.png\"></p>",
+        "answers": {
+          "a": "270 Ohm",
+          "b": "27 KOhm",
+          "c": "2.7 KOhm",
+          "d": "2700 kOhm"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is correct",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Resistance and current are _________",
+        "answers": {
+          "a": "similar to voltage",
+          "b": "not related",
+          "c": "directly proportional",
+          "d": "inversely proportional"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "If the voltage in the given circuit was cut in half, what would the current equal? <br/><p style=\"text-align:center\"><img src=\"images/ohmq4.png\"></p>",
+        "answers": {
+          "a": "30 mA",
+          "b": "60 mA",
+          "c": "10 mA",
+          "d": "90 mA"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
