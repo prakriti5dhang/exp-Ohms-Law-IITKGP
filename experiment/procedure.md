@@ -13,7 +13,7 @@
 9. Therefore from the graph we see that the resistance do adhere to Ohm’s law. Thus resistance is said to be an Ohmic device.
 
 <div align="center">
-<img src="images/ohmslw_pr.png" width="10%">
+<img src="images/ohmsl_pr.png" width="10%">
 <p>Figure:1</p>
 </div>
 

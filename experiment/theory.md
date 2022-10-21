@@ -95,7 +95,7 @@ $$V=V_1=V_2=V_3$$
 
 Resistance:
 
-$$\frac{1}{R_{eq}}=\frac{1}{R_1}+frac{1}{R_2}+frac{1}{R_3}
+$$\frac{1}{R_{eq}}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}
 
 Current:
 
@@ -119,11 +119,11 @@ $$I_T=\frac{V_S}{R_{eq}}$$
 
 Current across each resistance are,
 
-For resistance $$R_1$$,
+For resistance R1,
 
 $$I_{R1}=\frac{V_S}{R_1}$$
 
-For resistance $$R_2$$,
+For resistance R2,
 
 $$I_{R2}=\frac{V_S}{R_2}$$
 
