@@ -95,7 +95,7 @@ $$V=V_1=V_2=V_3$$
 
 Resistance:
 
-$$\frac{1}{R_{eq}}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}
+$$\frac{1}{R_{eq}}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}$$
 
 Current:
 
