@@ -152,7 +152,7 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
 
     ## Assignments
 
-    1. A 3 volt battery sends a current of 1 ampere through a light bulb. What is the resistance of the filament of the bulb?
+1. A 3 volt battery sends a current of 1 ampere through a light bulb. What is the resistance of the filament of the bulb?
     [Ans:3Ω]
 
 
@@ -188,7 +188,7 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
 
 <div align="center">
 <img src="images/ohmsassgn2.png" width="10%">
-<p>Figure 1  </p>
+<p>Figure 2  </p>
 </div>
 
 8. Compute the relative potentials of points A, B, C, D and E which point A is grounded. Calculate the voltage drop across resistance R1? Does it affect the circuit operation or potential difference between any pair of points ?[where, R1=6Ω,R2=2 Ω,R3=4Ω,VS1=34 V,VS2=10 V,I=2 A].
@@ -196,5 +196,5 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
 
 <div align="center">
 <img src="images/ohmsassgn3.png" width="10%">
-<p>Figure 1  </p>
+<p>Figure 3  </p>
 </div>
