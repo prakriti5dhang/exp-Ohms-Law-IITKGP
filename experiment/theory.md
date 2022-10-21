@@ -29,7 +29,7 @@ $$R=\frac{V}{I}$$
 ### Explaination of Ohm's Law
 <div align="center">
 <img src="images/ohmt2.png" width="10%">
-<p>Figure 3: Current through resistor  </p>
+<p>Figure 2: Current through resistor  </p>
 </div>
 
 From the circuit:
