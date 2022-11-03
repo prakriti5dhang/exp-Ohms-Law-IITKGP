@@ -198,3 +198,5 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
 <img src="images/ohmsassgn3.png" width="10%">
 <p>Figure 3  </p>
 </div>
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
